@@ -1,0 +1,15 @@
+C:\Users\petro\source\repos\AppStart_OS\AppStart_OS\bin\Debug\AppStart_OS.exe.config
+C:\Users\petro\source\repos\AppStart_OS\AppStart_OS\bin\Debug\AppStart_OS.exe
+C:\Users\petro\source\repos\AppStart_OS\AppStart_OS\bin\Debug\AppStart_OS.pdb
+C:\Users\petro\source\repos\AppStart_OS\AppStart_OS\obj\Debug\AppStart_OS.csproj.AssemblyReference.cache
+C:\Users\petro\source\repos\AppStart_OS\AppStart_OS\obj\Debug\MainWindow.g.cs
+C:\Users\petro\source\repos\AppStart_OS\AppStart_OS\obj\Debug\App.g.cs
+C:\Users\petro\source\repos\AppStart_OS\AppStart_OS\obj\Debug\AppStart_OS_MarkupCompile.cache
+C:\Users\petro\source\repos\AppStart_OS\AppStart_OS\obj\Debug\AppStart_OS_MarkupCompile.lref
+C:\Users\petro\source\repos\AppStart_OS\AppStart_OS\obj\Debug\MainWindow.baml
+C:\Users\petro\source\repos\AppStart_OS\AppStart_OS\obj\Debug\AppStart_OS.g.resources
+C:\Users\petro\source\repos\AppStart_OS\AppStart_OS\obj\Debug\AppStart_OS.Properties.Resources.resources
+C:\Users\petro\source\repos\AppStart_OS\AppStart_OS\obj\Debug\AppStart_OS.csproj.GenerateResource.cache
+C:\Users\petro\source\repos\AppStart_OS\AppStart_OS\obj\Debug\AppStart_OS.csproj.CoreCompileInputs.cache
+C:\Users\petro\source\repos\AppStart_OS\AppStart_OS\obj\Debug\AppStart_OS.exe
+C:\Users\petro\source\repos\AppStart_OS\AppStart_OS\obj\Debug\AppStart_OS.pdb
